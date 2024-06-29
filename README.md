@@ -1,8 +1,8 @@
 # Awesome Farcaster [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Clients
+## Клиенты
 
-### General
+### Общие
 
 - [Warpcast](https://warpcast.com/)
   - [Web](https://warpcast.com/), [iOS](https://apps.apple.com/us/app/farcaster/id1600555445), [Android](https://play.google.com/store/apps/details?id=com.farcaster.mobile)
@@ -23,121 +23,121 @@
 - [herocast](https://herocast.xyz)
   - [Web](https://herocast.xyz)
 
-### Specialized
+### Специализированные
 
 - [Buoy](https://buoy.club)
-  - Search & Alerts [iOS](https://buoy.club), [Android](https://buoy.club)
+  - Поиск и оповещения [iOS](https://buoy.club), [Android](https://buoy.club)
 - [Searchcaster](https://searchcaster.xyz/)
-  - Search - [Web](https://searchcaster.xyz/)
+  - Поиск - [Web](https://searchcaster.xyz/)
 - [Crew](https://www.hifromcrew.com/join)
-  - Team/multiple accounts - [Web](https://www.hifromcrew.com/join)
+  - Команда/несколько учетных записей - [Web](https://www.hifromcrew.com/join)
 - [Alertcaster](https://alertcaster.xyz)
-  - Alerts - [Web](https://alertcaster.xyz)
+  - Оповещения - [Web](https://alertcaster.xyz)
 - [Launchcaster](https://launchcaster.xyz)
-  - Track project launches - [Web](https://launchcaster.xyz)
+  - Отслеживать запуски проектов - [Web](https://launchcaster.xyz)
 - [Pincaster](https://pincaster.xyz)
-  - Save and collect casts - [Web](https://pincaster.xyz)
+  - Сохраняйте и собирайте касты - [Web](https://pincaster.xyz)
 - [Sealcaster](https://sealcaster.xyz)
-  - Anonymous casting through cryptography - [Web](https://sealcaster.xyz)
+  - Анонимный кастинг посредством криптографии - [Web](https://sealcaster.xyz)
 - [Alphacaster](https://alphacaster.xyz)
-  - DAO-focused - [Web](https://alphacaster.xyz)
+  - Ориентирован на DAO - [Web](https://alphacaster.xyz)
 - [Eventcaster](https://eventcaster.xyz)
-  - Meetups & Events - [Web](https://eventcaster.xyz)
+  - Встречи и мероприятияs - [Web](https://eventcaster.xyz)
 - [TipCast](https://tipcast.xyz)
-  - Tip Casters via Polygon - [Web](https://tipcast.xyz)
+  - Чаевые через Polygon - [Web](https://tipcast.xyz)
 - [SayMore](https://saymore.tv/)
-  - Creator Requests - [Web](https://saymore.tv/)
+  - Запросы авторов - [Web](https://saymore.tv/)
 - [Absorb](https://www.getabsorb.com)
   - Video - [Web](https://www.getabsorb.com)
 - [Kiwi News](https://news.kiwistand.com/)
-  - Community-curated links - [Web](https://news.kiwistand.com/)
+  - Ссылки, созданные сообществом - [Web](https://news.kiwistand.com/)
 - [Findcaster](https://www.findcaster.com)
-  - Search - [Web](https://www.findcaster.com)
+  - Поиск - [Web](https://www.findcaster.com)
 - [Web3.bio](https://web3.bio)
-  - Profiles - [Web](https://web3.bio)
+  - Профили - [Web](https://web3.bio)
 - [Casterscan](https://casterscan.com/)
-  - Inspired by block explorers - [Web](https://casterscan.com/)
+  - Вдохновлено обозревателями блоков - [Web](https://casterscan.com/)
 - [Opencast](https://opencast.stephancill.co.za/)
-  - A fully open source Twitter flavoured Farcaster client - [Web](https://opencast.stephancill.co.za/) [GitHub](https://github.com/stephancill/opencast)
+  - Клиент Farcaster с полностью открытым исходным кодом, адаптированный для Twitter - [Web](https://opencast.stephancill.co.za/) [GitHub](https://github.com/stephancill/opencast)
 - [Ponder](https://www.weponder.io)
-  - Revealing the thoughts of Farcaster through public surveys - [Web](https://www.weponder.io)
+  - Публичных опросы - [Web](https://www.weponder.io)
 - [Bountycaster](https://www.bountycaster.xyz/)
-  - Create and complete bounties on Farcaster - [Web](https://www.bountycaster.xyz)
+  - Создавайте и выполняйте контракты на Farcaster - [Web](https://www.bountycaster.xyz)
 - [33bits](https://33bits.xyz)
-  - Cast anonymously on Farcaster through Zero-Knowledge proofs - [Web](https://33bits.xyz)
+  - Анонимно транслировать на Farcaster с помощью доказательств с нулевым разглашением - [Web](https://33bits.xyz)
 - [Magi](https://magi.lol/)
-  - Meme search engine for Farcaster - [Web](https://magi.lol/)
+  - Поисковая система мемов для Farcaster - [Web](https://magi.lol/)
 - [CasterBites](https://casterbites.com/)
-  - Personalised daily digest of Farcaster with highlights, user stats and more - [Web](https://casterbites.com)
+  - Персонализированный ежедневный дайджест Farcaster с основными моментами, статистикой пользователей и многим другим - [Web](https://casterbites.com)
 
-## Tools
+## Инструменты
 
-- [CastStorage](https://caststorage.com/) - Check your Farcaster storage usage.
-- [fcstr](https://feeds.fcstr.xyz/) - Make user and channel RSS, Atom, and JSON feeds.
-- [Sharecaster](https://sharecaster.xyz/) - Make preview-friendly links to casts.
-- [Searchcaster](https://raycast.com/gregskril/searchcaster) - Raycast extension for search.
-- [CastRSS](https://castrss.xyz) - Make user RSS feeds.
-- [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
-- [Hatecast](https://hatecast.xyz/) - Track who a user unfollows and who unfollows them.
-- [Farcaster.vote](https://farcaster.vote/app) - Verifiable & decentralized polls within Farcaster Frames.
-- [Composecastxyz](https://github.com/0xSemicolon/composecastxyz) - Privacy preserving, MIT licensed compose cast gateway
+- [CastStorage](https://caststorage.com/) – проверьте использование хранилища Farcaster.
+- [fcstr](https://feeds.fcstr.xyz/) – создание пользовательских и канальных каналов RSS, Atom и JSON.
+- [Sharecaster](https://sharecaster.xyz/) - Делайте удобные для предварительного просмотра ссылки на трансляции.
+- [Searchcaster](https://raycast.com/gregskril/searchcaster) – расширение Raycast для поиска.
+- [CastRSS](https://castrss.xyz) – Создание пользовательских RSS-каналов.
+- [Fardrop](https://fardrop.xyz) – Создайте белый список на основе подписчиков.
+- [Hatecast](https://hatecast.xyz/) - Отслеживайте, от кого пользователь отписывается, а кто от него.
+- [Farcaster.vote](https://farcaster.vote/app) – проверяемые и децентрализованные опросы в рамках Farcaster Frames.
+- [Composecastxyz](https://github.com/0xSemicolon/composecastxyz) - Сохранение конфиденциальности, лицензированный MIT шлюз создания трансляции
 
-## Bots
+## Боты
 
-These bots are available on Farcaster. You can mention them in a cast to get a reply.
+Эти боты доступны на Farcaster. Вы можете упомянуть их в касте, чтобы получить ответ.
 
-- [@remindme](https://warpcast.com/remindme) - Reply to any cast with "@remindme `Number` `Day or Month or Year`" to be reminded in the future.
-- [@launch](https://warpcast.com/launch) - Reply to any cast with "@launch `Title (optional)`" to launch on Launchcaster.
-- [@perl](https://warpcast.com/perl) - Reply to any cast with "@perl `Category (optional)`" to save it as a Perl.
-- [@mintit](https://warpcast.com/mintit) - Reply to any cast with "@mintit" to mint the cast as an NFT.
-- [@alert](https://warpcast.com/alert) - Set up an alert on Alertcaster and alert bot will mention you as a reply to casts matching the alert.
-- [@survey](https://warpcast.com/survey) - Reply to any cast with "@survey" to bookmark it as a potential [Ponder](https://www.weponder.io) survey.
-- [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
-- [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
-- [@translate](https://warpcast.com/translate) - Reply to any cast with "@translate `Language`" to get the translated text.
-- [@ballot](https://warpcast.com/ballot) - Write mention to @ballot with a question and a list of options and it will create a frame from [Farcaster.vote](https://farcaster.vote/app) for you. [Example](https://warpcast.com/ballot/0xeb1a95bb).
-- [@events](https://warpcast.com/event) - Up-to-date event.xyz information via frames.
-- [@indexer](https://warpcast.com/indexer) - AI-powered social search engine leveraging algorithmic and social curation.
+- [@remindme](https://warpcast.com/remindme) — ответьте на любой каст, указав «@remindme `Number` `Day or Month or Year`”, чтобы о напоминании в будущем.
+- [@launch](https://warpcast.com/launch) — ответьте на любой каст, указав «@launch `Title (необязательно)`», чтобы запустить его на Launchcaster.
+- [@perl](https://warpcast.com/perl) — ответьте на любое приведение с помощью «@perl `Категория (необязательно)`», чтобы сохранить его как Perl.
+- [@mintit](https://warpcast.com/mintit) — ответьте на любое приведение с помощью «@mintit», чтобы создать приведение как NFT.
+- [@alert](https://warpcast.com/alert) — настройте оповещение на Alertcaster, и бот оповещения будет упоминать вас в качестве ответа на трансляции, соответствующие оповещению.
+- [@survey](https://warpcast.com/survey) - ответьте на любой актерский состав с помощью «@survey», чтобы добавить его в закладки как потенциальный опрос [Ponder](https://www.weponder.io).
+- [@paragraph](https://warpcast.com/paragraph) - обобщает и комментирует статьи, опубликованные в [Paragraph](https://paragraph.xyz).
+- [@bountybot](https://warpcast.com/bountybot) — упомяните @bountybot и укажите «Описание», «Сумма», «Срок (необязательно)» для создания вознаграждения.
+- [@translate](https://warpcast.com/translate) – ответьте на любой запрос с помощью "@translate `Language`", чтобы получить переведенный текст.
+- [@ballot](https://warpcast.com/ballot) - Напишите @ballot с вопросом и списком вариантов, и он создаст фрейм из [Farcaster.vote](https://farcaster.vote /приложение) для вас. [Пример](https://warpcast.com/ballot/0xeb1a95bb).
+- [@events](https://warpcast.com/event) - Актуальная информация о event.xyz через фреймы.
+- [@indexer](https://warpcast.com/indexer) — социальная поисковая система на базе искусственного интеллекта, использующая алгоритмическое и социальное курирование.
 
-### Community
+### Сообщество
 
-- [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
-- [Warpcast's Ecosystem Page](https://www.farcaster.xyz/apps) - Clients, tools, and other links.
-- [Decaster](https://decaster.xyz) - Curated farcaster ecosystem page.
-- [Yash's Directory](https://directory.yashkarthik.xyz/) - Public mapping between Twitter and Farcaster accounts.
-- [Purple](https://purple.construction/) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.
-- [FarCon](https://farcon.xyz/) - FarCon is an unconference and experiential public good designed to support and proliferate the Farcaster ecosystem through physical connection.
+- [Citycaster](https://citycaster.xyz) – городские группы Telegram.
+- [Страница экосистемы Warpcast](https://www.farcaster.xyz/apps) - Клиенты, инструменты и другие ссылки.
+- [Decaster](https://decaster.xyz) — курируемая страница экосистемы Farcaster.
+- [Каталог Яша](https://directory.yashkarthik.xyz/) – Общедоступное сопоставление между учетными записями Twitter и Farcaster.
+- [Purple](https://purple.construction/) - Purple — это DAO, цель которого — распространение и расширение протокола и экосистемы Farcaster.
+- [FarCon](https://farcon.xyz/) – FarCon — это неконференционное и эмпирическое общественное благо, предназначенное для поддержки и распространения экосистемы Farcaster посредством физического соединения.
 
-## Developer Resources
+## Ресурсы для разработчиков
 
-### Documentation
+### Документация
 
 - [Farcaster Specifications](https://github.com/farcasterxyz/protocol/blob/main/docs/SPECIFICATION.md)
 - [Farcaster Development Examples](https://www.farcaster.xyz/devs)
 - [Hubble Documentation](https://www.thehubble.xyz)
-  - Hubble is the first implementation of a Farcaster node.
+  - «Хаббл» — первая реализация узла Farcaster.
 - [Neynar API Documentation](https://docs.neynar.com)
-  - Various APIs and services for Farcaster.
+  - Различные API и сервисы для Farcaster.
 - [Airstack API Documentaion](https://docs.airstack.xyz)
-  - Composable Web3 APIs to fetch and combine Farcaster and other onchain & off-chain data, e.g. ENS, Base, Zora, XMTP, etc.
+  - Компонуемые API-интерфейсы Web3 для получения и объединения данных Farcaster и других данных внутри и вне цепочки, например ENS, Base, Zora, XMTP и т. д.
 - [Airstack Activate Kit For Farcaster Auth Kit](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/activate-kit-for-farcaster-auth-kit)
-  - A series of API calls to activate Farcaster users after they connect with Farcaster Auth Kit
+  - Серия вызовов API для активации пользователей Farcaster после их подключения с помощью Farcaster Auth Kit.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
-  - Farcaster protocol specification.
+  - Спецификация протокола Farcaster.
 - [farcasterxyz/hub](https://github.com/farcasterxyz/hub-monorepo)
-  - An implementation of the Farcaster protocol specification.
+  - Реализация спецификации протокола Farcaster.
 - [Farcaster Contributing Guidelines](https://github.com/farcasterxyz/hub/blob/main/CONTRIBUTING.md)
 - [Farcaster Draft Proposals](https://hackmd.io/@farcasterxyz)
 - [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
   - The Phrasetown client has its own useful API.
 - [far.quest Free Farcaster API Docs](https://docs.far.quest)
-  - Free & open-source APIs for Farcaster.
+  - Бесплатные API с открытым исходным кодом для Farcaster.
 - [Dynamic's Sign In With Farcaster SDK](https://docs.dynamic.xyz/guides/integrations/sign-in-with-farcaster)
-  - Library for SIWF including making embedded wallets, casting, and more.
+  - Библиотека для SIWF, включая создание встроенных кошельков, кастинг и многое другое.
 - [Farcaster Kit Docs](https://farcasterkit.com/docs)
-  - Free React hooks and API for Farcaster apps.
+  - Бесплатные хуки React и API для приложений Farcaster.
 
-### Services
+### Сервисы
 
 - [Neynar Hosted Hubs](https://hubs.neynar.com)
 - [far.quest Free & Open-Source Farcaster APIs](https://docs.far.quest)
@@ -147,66 +147,66 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 ### Repos
 
 - [standard-crypto/farcaster-js](https://github.com/standard-crypto/farcaster-js)
-  - General-purpose JS interface.
+  - Универсальный JS-интерфейс.
 - [a16z/farcaster-py](https://github.com/a16z/farcaster-py)
-  - General-purpose Python interface.
+  - Универсальный интерфейс Python.
 - [TheLDB/farcaster-rs](https://github.com/TheLDB/farcaster-rs)
-  - General-purpose Rust interface.
+  - Универсальный интерфейс Rust.
 - [ertan/go-farcaster](https://github.com/ertan/go-farcaster)
-  - General-purpose Go interface.
+  - Универсальный интерфейс Go.
 - [frog](https://github.com/wevm/frog)
-  - Framework and DevTools for Farcaster Frames
+  - Фреймворк и инструменты разработчика для фреймов Farcaster.
 - [framesjs](https://github.com/framesjs/frames.js)
-  - Farcaster Frames in JavaScript.
+  - Фреймы Farcaster в JavaScript.
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer)
-  - Indexes Farcaster profiles and casts.
+  - Индексирует профили и приведения Farcaster.
 - [BigWhaleLabs/botcaster](https://github.com/BigWhaleLabs/botcaster/)
-  - Farcaster bot framework.
+  - Фреймворк бота Farcaster.
 - [zachterrell57/farcaster-auth](https://github.com/zachterrell57/farcaster-auth)
-  - Authenticating with the Farcaster protocol.
+  - Аутентификация по протоколу Farcaster.
 - [gskril/farcaster-search](https://github.com/gskril/farcaster-search)
-  - JS library to search Farcaster against an index node.
+  - Библиотека JS для поиска Farcaster по узлу индекса.
 - [YashKarthik/frencaster-v2](https://github.com/YashKarthik/frencaster-v2)
-  - Create a diagram that shows your Farcaster circle.
+  - Создайте диаграмму, показывающую ваш круг Фаркастера.
 - [whatrocks/farcaster-feed](https://github.com/whatrocks/farcaster-feed)
-  - Syndicates a user's casts via JS to another surface, like a static site.
+  - Синдицирует трансляции пользователя через JS на другую поверхность, например на статический сайт.
 - [noctisatrae/farsign](https://github.com/noctisatrae/farsign)
-  - Package to easily sign-in with Farcaster.
+  - Пакет для удобного входа в систему Farcaster.
 - [davidfurlong/farcaster-auth-tokens](https://github.com/davidfurlong/farcaster-auth-tokens)
-  - Issue and revoke auth tokens
+  - Выпуск и отзыв токенов авторизации
 - [neynarxyz/farcaster-channels](https://github.com/neynarxyz/farcaster-channels)
-  - A directory for well-known Channels across different Farcaster clients.
+  - Каталог известных каналов в различных клиентах Farcaster.
 - [Karma3Labs/ts-eigencaster](https://github.com/Karma3Labs/ts-eigencaster)
-  - Farcaster profile ranking/recommendation API using the EigenTrust algorithm; powers Eigencaster ([site](https://eigencaster.k3l.io/)) ([repo](https://github.com/Karma3Labs/eigencaster)).
+  - API ранжирования/рекомендации профиля Farcaster с использованием алгоритма EigenTrust ([site](https://eigencaster.k3l.io/)) ([repo](https://github.com/Karma3Labs/eigencaster)).
 - [fmhall/fc-bot-template](https://github.com/fmhall/fc-bot-template)
-  - A template repository to quickly spin up a bot using the farcaster-py SDK
+  - Репозиторий шаблонов для быстрого запуска бота с помощью Farcaster-py SDK.
 - [ponder-surveys/farcaster-survey-bot](https://github.com/ponder-surveys/farcaster-survey-bot)
-  - An open source NodeJS bot designed to post engaging surveys directly on Farcaster.
+  - Бот NodeJS с открытым исходным кодом, предназначенный для публикации интересных опросов непосредственно на Farcaster.
 - [mod-protocol/mod](https://github.com/mod-protocol/mod)
-  - An open source Editor for creating casts, rendering rich embeds and a protocol for Farcaster Mini-apps.
+  - Редактор с открытым исходным кодом для создания приведения, рендеринга расширенных вставок и протокола для мини-приложений Farcaster.
 - [pugson/react-farcaster-embed](https://github.com/pugson/react-farcaster-embed)
-  - Component for displaying an embedded cast from Farcaster in your React app.
+  - Компонент для отображения встроенного каста из Farcaster в вашем приложении React.
 - [Farcaster Solidity](https://github.com/pavlovdog/farcaster-solidity/)
-  - A set of Solidity libraries for working with Farcaster messages.
+  - Набор библиотек Solidity для работы с сообщениями Farcaster.
 - [leo5imon/farcaster-scraper](https://github.com/leo5imon/farcaster-scraper)
-  - CLI tool and script for scraping Farcaster content via Neynar.
+  - Инструмент CLI и скрипт для веб-скрейпинга контента Farcaster через Neynar.
 
 ### Analytics and Data
 
-- [Farcaster User Stats](https://www.farcasteruserstats.com/) - User analytics. - [GitHub](https://github.com/mattwelter/farcaster-user-stats)
-- [CastSense](https://www.castsense.xyz/) - User and channel analytics.
-- [Trendcaster](https://www.trendcaster.xyz) - Personal analytics.
-- [Farcaster Network](https://farcaster.network) - Network dashboard.
-- [Casterscan](https://casterscan.com) - A block explorer for Farcaster.
+- [Farcaster User Stats](https://www.farcasteruserstats.com/) - Аналитика пользователей. - [GitHub](https://github.com/mattwelter/farcaster-user-stats)
+- [CastSense](https://www.castsense.xyz/) - Аналитика пользователей и каналов.
+- [Trendcaster](https://www.trendcaster.xyz) - Аналитика пользователей и каналов.
+- [Farcaster Network](https://farcaster.network) - Панель управления сетью.
+- [Casterscan](https://casterscan.com) - Обозреватель блоков для Farcaster.
   - Open source [here](https://github.com/dylsteck/casterscan).
-- [Goerli Subgraph](https://thegraph.com/hosted-service/subgraph/0xsarvesh/farcaster-goerli) - Farcaster data on Ethereum's Goerli testnet.
+- [Goerli Subgraph](https://thegraph.com/hosted-service/subgraph/0xsarvesh/farcaster-goerli) - данные Farcaster в тестовой сети Ethereum Goerli.
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
 - [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
-- [Farcaster Hot 100](https://fc.hot100.xyz/) - Trending accounts
-- [Neynar frame analytics](https://docs.neynar.com/reference/validate-frame-analytics) - Get analytics for your frame
+- [Farcaster Hot 100](https://fc.hot100.xyz/) - Популярные аккаунты
+- [Neynar frame analytics](https://docs.neynar.com/reference/validate-frame-analytics) - Получите аналитику для вашего фрейма.
 
-### Farcaster Frames
+### Фреймы Фаркастера
 
 Frames are how you can make posts interactive on Farcaster.
 
